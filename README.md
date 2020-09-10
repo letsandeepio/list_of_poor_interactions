@@ -1,5 +1,5 @@
-# list_of_poor_interactions
-list of poorly designed interactions as result of oversight
+# list of poorly designed interactions as result of oversight
+
 
 
 * Actual: within seconds of login into premium learning content on linkedin, it asks for your feedback
